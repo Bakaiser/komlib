@@ -41,9 +41,10 @@
 
 #ifndef KOMINTERFACE_H
 #define KOMINTERFACE_H
+#endif
+
 #ifdef __cplusplus
 extern "C" {
-#endif
 
 #define KOMLIB_VERSION "1.3.0"
 #define KOMLIB_VERNUM 0x1300
