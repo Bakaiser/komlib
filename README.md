@@ -1,5 +1,5 @@
 # komlib
-komlib v1.3.0
+komlib v1.3.0 (Not Complete yet See Beta Branch for more Detail.)
 
 #Requirelents
 *  C++ 6 Or Newer
