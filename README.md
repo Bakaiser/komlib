@@ -1,5 +1,5 @@
 # komlib
-komlib v1.3.0 (Not Complete yet See Beta Branch for more Detail.)
+komlib v1.3.0 (Not Complete yet See [Beta](https://github.com/AraHaan/kominterface/tree/Beta) Branch for more Detail.)
 
 #Requirelents
 *  C++ 6 Or Newer
