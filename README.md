@@ -12,4 +12,4 @@ Well this is easy to do you just need the following.
 or
 *  Borland C++ Builder
 or
-*  Any oner C/C++ Compiler for Windows, or Mac OSX, or Linux
+*  Any other C/C++ Compiler for Windows, or Mac OSX, or Linux
