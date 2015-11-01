@@ -25,13 +25,13 @@
      without the authors consent.
   7. If your Elsword Account gets banned for use of hacks by you making it
      able to Decrypt the lua files the authors are not held responsible for
-	 your (the user/editor) stupidity.
+     your (the user/editor) stupidity.
   8. This uses code that is originally from the edited version of the python
      unpack/pack *.py files that require Python 2.7.x  and does not work in 
-	 Python 3.x however it cannot decrypt the lua files it can however allow
-	 you to open the *.x, *.y files in PMD/PMX Editor. The other files. *.tga,
-	 *.dds files can be Edited as well. Some kom files however, cannot be 
-	 modified at all.
+     Python 3.x however it cannot decrypt the lua files it can however allow
+     you to open the *.x, *.y files in PMD/PMX Editor. The other files. *.tga,
+     *.dds files can be Edited as well. Some kom files however, cannot be 
+     modified at all.
 */
 
 //supports KoG GC Team MASSFILE v1.3
