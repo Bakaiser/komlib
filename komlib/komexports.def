@@ -1,3 +1,4 @@
 EXPORTS
 	KOM_DecompressFile
 	KOM_CompressFile
+	KOM_READFILE
