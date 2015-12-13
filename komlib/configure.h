@@ -1,4 +1,4 @@
-/* kompack.h -- interface of the komlib kom file I/O library
+/* kominterface.c -- interface of the komlib kom file I/O library
   version 1.3.0, October 31st, 2015
 
   Copyright (C) 2015 Sean Hunt
@@ -36,4 +36,22 @@
 
 //supports KoG GC Team MASSFILE v1.3
 
-#include <zlib\zlib.h>
+#ifndef CONFIGURE_H
+#define CONFIGURE_H
+#  define KOM_DecompressFile    KOM_DecompressFile
+#  define KOM_CompressFile      KOM_CompressFile
+#ifndef KEXTERN
+#  define KEXTERN extern
+#endif
+#ifndef KEXPORT
+#  define KEXPORT
+#endif
+
+#ifndef OF /* function prototypes */
+#  ifdef STDC
+#    define OF(args)  args
+#  else
+#    define OF(args)  ()
+#  endif
+#endif
+#endif /* CONFIGURE_H */

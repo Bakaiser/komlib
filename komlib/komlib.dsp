@@ -98,6 +98,10 @@ SOURCE=.\kominterface.c
 # PROP Default_Filter "h;hpp;hxx;hm;inl"
 # Begin Source File
 
+SOURCE=.\configure.h
+# End Source File
+# Begin Source File
+
 SOURCE=.\kominterface.h
 # End Source File
 # Begin Source File
@@ -115,6 +119,14 @@ SOURCE=.\komunpack.h
 # Begin Source File
 
 SOURCE=.\komlib.rc
+# End Source File
+# End Group
+# Begin Group "Definition Files"
+
+# PROP Default_Filter ""
+# Begin Source File
+
+SOURCE=.\komexports.def
 # End Source File
 # End Group
 # End Target

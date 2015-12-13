@@ -54,6 +54,10 @@ extern "C" {
 #define KOMLIB_VER_SUBREVISION 0
 #endif
 
+
+KEXTERN const char * KEXPORT KOM_DecompressFile OF((void));
+KEXTERN const char * KEXPORT KOM_CompressFile OF((void));
+
 #ifdef __cplusplus
 }
 #endif /* KOMINTERFACE_H */

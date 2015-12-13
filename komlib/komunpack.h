@@ -36,4 +36,4 @@
 
 //supports KoG GC Team MASSFILE v1.3
 
-#include <zlib\inflate.h>
+#include <zlib\zlib.h>
