@@ -38,8 +38,9 @@
 
 #ifndef CONFIGURE_H
 #define CONFIGURE_H
-#  define KOM_DecompressFile    KOM_DecompressFile
-#  define KOM_CompressFile      KOM_CompressFile
+#  define KOM_DecompressFiles    DecompressFiles
+#  define KOM_CompressFiles      CompressFiles
+#  define KOM_ReadFiles          ReadFiles
 #ifndef KEXTERN
 #  define KEXTERN extern
 #endif
